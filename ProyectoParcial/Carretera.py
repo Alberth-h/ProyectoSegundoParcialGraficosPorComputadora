@@ -4,7 +4,7 @@ import glfw
 from math import *
 import math
 
-velocidad = 2.0
+velocidad = 2.75
 
 class Tramo:
     psX = 0.0
